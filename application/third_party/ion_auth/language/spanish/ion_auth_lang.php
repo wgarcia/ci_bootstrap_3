@@ -2,10 +2,6 @@
 /**
 * Name:     Ion Auth Lang - Spanish
 *
-* Author:   Wilfrido García Espinosa
-*           contacto@wilfridogarcia.com
-*           @wilfridogarcia
-*
 * Location: http://github.com/benedmunds/ion_auth/
 *
 * Created:  05.04.2010
